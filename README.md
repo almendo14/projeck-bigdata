@@ -32,9 +32,13 @@ projeck-bigdata/
 
 ## 1 Jalankan Kafka dan Zookeeper (dengan docker)
 docker-compose up -d
+![Screenshot 2025-05-31 203341](https://github.com/user-attachments/assets/18cdc48c-a68a-4630-85ad-e1890b25218e)
+
 
 Pastikan container Kafka dan Zookeeper berjalan
 docker ps
+![Screenshot 2025-05-31 203436](https://github.com/user-attachments/assets/fa971a4c-b799-4e2d-8d9c-a08a3b30201d)
+
 
 ## 2 Jalankan producer.py untuk mengirim data
 python producer.py
