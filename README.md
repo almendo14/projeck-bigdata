@@ -43,6 +43,9 @@ docker ps
 ## 2 Jalankan producer.py untuk mengirim data
 python producer.py
 
+produser python berjalan dengan baik
+![Image](https://github.com/user-attachments/assets/fdee6b85-06f0-47a0-8f35-6b1e88a05834)
+
 ## 3 Jalankan consumer.py untuk menerima data
 python consumer.py
 
